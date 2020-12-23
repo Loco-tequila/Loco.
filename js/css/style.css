@@ -1,0 +1,87 @@
+body {
+  margin: 100px auto;
+  width: 400px;
+  height: 400px;
+  background-color: whitesmoke;
+}
+
+.container {
+  position: relative;
+
+  width: 480px;
+  height: 339px;
+  box-shadow: 0px 0px 10px 1px;
+  border-radius: 2px;
+  padding: 10px;
+  background-color: #fff2ff;
+}
+
+#timer {
+  background-color: white;
+
+  font-size: 50px;
+  height: 209px;
+  margin: 40px 40px ;
+  margin-bottom: 24px;
+  text-align: center;
+  margin-top: 40px;
+  line-height: 228px;
+user-select: none;
+}
+
+.btn {
+  height: 40px;
+  background-color: white;
+  padding-top: 10px;
+  margin: 0 40px;
+  text-align: center;
+
+  user-select: none;
+  
+}
+
+#start {
+  height: 30px;
+  width: 49px;
+  cursor: pointer;
+}
+
+#stop {
+  height: 30px;
+  width: 49px;
+  margin: 0 25px;
+  cursor: pointer;
+}
+
+#reset {
+  height: 30px;
+  width: 49px;
+  cursor: pointer;
+}
+
+.JavaScript {
+  font-family: 'Domine', serif;
+}
+
+.JavaScript img{
+  width:380px; 
+  height:234px;
+}
+
+.JavaScript h1 {
+  position: absolute;
+  top: 72px;
+  left: 185px;
+  font-size: 16px;
+}
+
+.JavaScript span{
+  margin:0 4px;
+  color:#F7E018;
+}
+
+.material-icons {
+vertical-align: -3px;
+font-size: 16px;
+color:silver;
+}
